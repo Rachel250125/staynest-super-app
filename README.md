@@ -1,20 +1,29 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+<img width="1200" height="475" alt="StayNest Banner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
 
-# Run and deploy your AI Studio app
+# 🌟 StayNest - AI Travel Super App
 
-This contains everything you need to run your app locally.
+**178 High-Fidelity Screens • Allergy-Safe Dining • Group Planning • Premium Rewards**
 
-View your app in AI Studio: https://ai.studio/apps/drive/1lQOmS5khkI3SKJVKp_C4SFfxvsZlNFqv
+[![React](https://img.shields.io/badge/React-18-blue.svg)](https://reactjs.org)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5-blue.svg)](https://typescriptlang.org)
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.4-blue.svg)](https://tailwindcss.com)
+[![Vite](https://img.shields.io/badge/Vite-5-green.svg)](https://vitejs.dev)
 
-## Run Locally
+## 🚀 Live Demo  ←← PUT HERE (2nd Section!)
+**LIVE:** https://staynest-super-avfeifd1m-prachis-projects-4154b33d.vercel.app/
 
-**Prerequisites:**  Node.js
+[![Deployed](https://staynest-super-avfeifd1m-prachis-projects-4154b33d.vercel.app/)](https://staynest-super-avfeifd1m-prachis-projects-4154b33d.vercel.app/)
 
+## ✨ LIVE Features (70+ Screens)
+🛡️ Allergy-Safe Dining → Verified Menus + Digital Cards
+🤖 AI Itinerary Planner → Personalized Day Plans  
+👥 Group Travel → Expense Split + Video Chat + Polls
+🏠 Host Dashboard → Calendar + Pricing + Onboarding
+💎 Premium Rewards → Badges + Leaderboards + Lounge Access
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 🚀 Quick Start
+```bash
+npm install
+npm run dev
