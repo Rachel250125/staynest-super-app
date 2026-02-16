@@ -7,19 +7,21 @@
 **178 High-Fidelity Screens • LIVE on Vercel!**
 
 [![React](https://img.shields.io/badge/React-18-blue.svg)](https://reactjs.org)
-[![Vercel](https://img.shields.io/badge/Vercel-Live-green.svg)](https://vercel.com)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5-blue.svg)](https://typescriptlang.org)
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.4-blue.svg)](https://tailwindcss.com)
+[![Vite](https://img.shields.io/badge/Vite-5-green.svg)](https://vitejs.dev)
+[![Vercel](https://img.shields.io/badge/Vercel-Live-brightgreen.svg)](https://staynest-super-app.vercel.app/)
 
-## 🚀 PRODUCTION LIVE 
-[**https://staynest-super-avfeifd1m-prachis-projects-4154b33d.vercel.app/**](https://staynest-super-avfeifd1m-prachis-projects-4154b33d.vercel.app/)
+## 🚀 Live Demo
+[![Deployed](https://staynest-super-app.vercel.app/)](https://staynest-super-app.vercel.app/)
 
-## ✨ LIVE Features
-- 🛡️ **Allergy-Safe Dining** - 4 screens ready
-- 🤖 **AI Itinerary** - Personalized plans
-- 👥 **Group Travel** - Expense split ready
-- 🏠 **Host Dashboard** - Complete flow
-- 💎 **Rewards System** - Badges + Leaderboards
+**🔥 PRODUCTION LIVE:** https://staynest-super-app.vercel.app/
 
-## 🚀 Quick Start
-```bash
-npm install
-npm run dev
+## ✨ LIVE Features (70+ Screens)
+- 🛡️ **Allergy-Safe Dining** - Verified Menus + Digital Cards
+- 🤖 **AI Itinerary Planner** - Personalized Day Plans  
+- 👥 **Group Travel** - Expense Split + Video Chat + Polls
+- 🏠 **Host Dashboard** - Calendar + Pricing + Onboarding
+- 💎 **Premium Rewards** - Badges + Leaderboards + Lounge Access
+
+## 🎮 Test Live Screens
