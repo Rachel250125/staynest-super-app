@@ -1,0 +1,7 @@
+{
+  "name": "StayNest - The Ultimate Travel Companion",
+  "description": "A comprehensive travel super-app featuring AI-powered itinerary planning, group collaboration tools, allergy-safe dining verification, and premium member rewards.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
