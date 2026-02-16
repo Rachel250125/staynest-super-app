@@ -4,24 +4,20 @@
 
 # 🌟 StayNest - AI Travel Super App
 
-**178 High-Fidelity Screens • Allergy-Safe Dining • Group Planning • Premium Rewards**
+**178 High-Fidelity Screens • LIVE on Vercel!**
 
 [![React](https://img.shields.io/badge/React-18-blue.svg)](https://reactjs.org)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5-blue.svg)](https://typescriptlang.org)
-[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.4-blue.svg)](https://tailwindcss.com)
-[![Vite](https://img.shields.io/badge/Vite-5-green.svg)](https://vitejs.dev)
+[![Vercel](https://img.shields.io/badge/Vercel-Live-green.svg)](https://vercel.com)
 
-## 🚀 Live Demo  ←← PUT HERE (2nd Section!)
-**LIVE:** https://staynest-super-avfeifd1m-prachis-projects-4154b33d.vercel.app/
+## 🚀 PRODUCTION LIVE 
+[**https://staynest-super-avfeifd1m-prachis-projects-4154b33d.vercel.app/**](https://staynest-super-avfeifd1m-prachis-projects-4154b33d.vercel.app/)
 
-[![Deployed](https://staynest-super-avfeifd1m-prachis-projects-4154b33d.vercel.app/)](https://staynest-super-avfeifd1m-prachis-projects-4154b33d.vercel.app/)
-
-## ✨ LIVE Features (70+ Screens)
-🛡️ Allergy-Safe Dining → Verified Menus + Digital Cards
-🤖 AI Itinerary Planner → Personalized Day Plans  
-👥 Group Travel → Expense Split + Video Chat + Polls
-🏠 Host Dashboard → Calendar + Pricing + Onboarding
-💎 Premium Rewards → Badges + Leaderboards + Lounge Access
+## ✨ LIVE Features
+- 🛡️ **Allergy-Safe Dining** - 4 screens ready
+- 🤖 **AI Itinerary** - Personalized plans
+- 👥 **Group Travel** - Expense split ready
+- 🏠 **Host Dashboard** - Complete flow
+- 💎 **Rewards System** - Badges + Leaderboards
 
 ## 🚀 Quick Start
 ```bash
